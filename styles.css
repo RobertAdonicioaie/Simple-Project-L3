@@ -72,3 +72,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+#Continut {
+    background-color: aquamarine;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
